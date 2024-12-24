@@ -23,11 +23,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/byldd/exp.git"
+    "url": "git+https://github.com/byldd/expo.git"
   },
   "bugs": {
-    "url": "https://github.com/byldd/exp/issues"
+    "url": "https://github.com/byldd/expo/issues"
   },
-  "homepage": "https://github.com/byldd/exp#readme"
+  "homepage": "https://github.com/byldd/expo#readme"
 }
 
