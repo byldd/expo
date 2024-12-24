@@ -1,0 +1,33 @@
+{
+  "name": "@byldd/expo",
+  "version": "1.0.4",
+  "description": "Byldd's Expo libraries",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "@byldd/expo-google-signin": "^1.0.0",
+    "@byldd/expo-facebook-signin": "^1.0.1"
+  },
+  "author": "Abhishek Singh <abhishek.singh@byldd.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">=18.3.1",
+    "react-native": ">=0.70.0",
+    "expo": ">=52.0.18"
+  },
+  "files": [
+    "lib/**/*"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/byldd/exp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/byldd/exp/issues"
+  },
+  "homepage": "https://github.com/byldd/exp#readme"
+}
+
